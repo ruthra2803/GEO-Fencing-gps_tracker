@@ -27,7 +27,7 @@ Users can send the keyword "LOCATE" via SMS to receive the current location as a
 
 3.4 Battery Monitoring System
 A voltage divider circuit measures the battery level. If the voltage falls below 3.6V, the system sends a "LOW BATTERY" warning SMS.
-4. Circuit  Connections
+
 Component	Arduino Nano
 GPS NEO-6M VCC	5V
 GPS NEO-6M GND	GND
